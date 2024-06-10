@@ -1,5 +1,7 @@
 # Reporting Security Issues
 
+## Forward to [UPSTREAM](https://github.com/tiann/KernelSU) unless relevant.
+
 The KernelSU team and community take security bugs in KernelSU seriously. We appreciate your efforts to responsibly disclose your findings, and will make every effort to acknowledge your contributions.
 
 To report a security issue, please use the GitHub Security Advisory ["Report a Vulnerability"](https://github.com/tiann/KernelSU/security/advisories/new) tab, or you can mailto [weishu](mailto:twsxtd@gmail.com) directly.
